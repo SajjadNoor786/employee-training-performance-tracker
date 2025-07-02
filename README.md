@@ -25,12 +25,12 @@ This project offers a professional Excel solution for HR teams and trainers to m
 
 ### 🖥️ Full Report View  
 <p align="center">
-  <img src="screenshots/report-preview.png" alt="Report Preview" width="600"/>
+  <img src="screenshots/Report preview.png" alt="Report Preview" width="600"/>
 </p>
 
 ### 📊 Chart Visual  
 <p align="center">
-  <img src="screenshots/chart-preview.png" alt="Chart Preview" width="600"/>
+  <img src="screenshots/chart preview.png" alt="chart Preview" width="600"/>
 </p>
 
 ---
