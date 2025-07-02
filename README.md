@@ -23,7 +23,7 @@ This project offers a professional Excel solution for HR teams and trainers to m
 
 ## 📸 Dashboard Preview
 
-### 🖥️ Full Report View  
+### 🖥️ Report View  
 <p align="center">
   <img src="Report preview.png" alt="Report Preview" width="600"/>
 </p>
