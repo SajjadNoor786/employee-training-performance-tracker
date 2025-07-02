@@ -30,7 +30,7 @@ This project offers a professional Excel solution for HR teams and trainers to m
 
 ### 📊 Chart Visual  
 <p align="center">
-  <img src="screenshots/chart preview.png" alt="chart Preview" width="600"/>
+  <img src="screenshots/Report preview.png" alt="chart Preview" width="600"/>
 </p>
 
 ---
